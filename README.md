@@ -1,7 +1,4 @@
-# To start
-
-This is a project template for [vue-cli](https://github.com/vuejs/vue-cli)
-
+# 资源平台后台管理部分
 ``` bash
 # install dependencies
 npm install
