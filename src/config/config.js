@@ -1,2 +1,2 @@
-let baseUrl = "http://192.168.2.77:3030";
+let baseUrl = "http://127.0.0.1:3030";
 export {baseUrl}
